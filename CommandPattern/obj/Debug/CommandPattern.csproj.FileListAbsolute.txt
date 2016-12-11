@@ -1,6 +1,0 @@
-c:\users\arefi\onedrive\documents\visual studio 2015\Projects\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe.config
-C:\Users\arefi\OneDrive\Documents\Visual Studio 2015\Projects\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache
-C:\Users\arefi\OneDrive\Documents\Visual Studio 2015\Projects\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe
-C:\Users\arefi\OneDrive\Documents\Visual Studio 2015\Projects\CommandPattern\CommandPattern\bin\Debug\CommandPattern.pdb
-C:\Users\arefi\OneDrive\Documents\Visual Studio 2015\Projects\CommandPattern\CommandPattern\obj\Debug\CommandPattern.exe
-C:\Users\arefi\OneDrive\Documents\Visual Studio 2015\Projects\CommandPattern\CommandPattern\obj\Debug\CommandPattern.pdb
